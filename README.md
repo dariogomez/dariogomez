@@ -6,15 +6,15 @@ Analista en Tecnologías de la Información, especializado en seguridad de la in
 
 ### Trayectoria
 
-**Líder Técnico — Spotter**
+**Líder Técnico — Spotter**<br>
 Arquitectura y desarrollo de los sistemas del centro de monitoreo: backends en Python/Django, integraciones con paneles de alarma y cámaras, telefonía SIP, infraestructura Linux y automatizaciones con IA.
 
-**Security Analyst — LACNIC WARP**
+**Security Analyst — LACNIC WARP**<br>
 Respuesta a incidentes de seguridad en el CSIRT de LACNIC para la región de América Latina y el Caribe. Trabajo con honeypots y análisis de tráfico malicioso.
 
 ### Formación
 
-**Analista en Tecnologías de la Información**
+**Analista en Tecnologías de la Información**<br>
 Especialización en seguridad de la información.
 
 ### Tecnologías
