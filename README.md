@@ -87,7 +87,3 @@ Especialización en seguridad de la información.
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
-
-### En GitHub
-
-Proyectos que sigo o extendí en algún momento: receptores de mensajes **SIA-IP** de sistemas de alarma, redes de **honeypots** y visualización de ataques.
